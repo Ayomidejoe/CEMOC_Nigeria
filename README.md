@@ -2,7 +2,7 @@
 Analysis of Comprehensive Emergency Obstetric Care (CEmOC) Capacity in Selected LGAs in Nigeria
 This project analyzes the capacity of Comprehensive Emergency Obstetric Care (CEmOC) facilities across selected Local Government Areas (LGAs) in Nigeria, based on the World Health Organization's (WHO) recommendations. According to the WHO, every 500,000 people should have at least four Basic Emergency Obstetric Care (BEmOC) facilities and one Comprehensive Emergency Obstetric Care (CEmOC) facility. This analysis focuses on 102 LGAs across 15 states, evaluating whether these regions meet the CEmOC benchmarks.
 
-Key Questions Addressed:
+## Key Questions Addressed:
 Which LGAs did not meet the benchmark of at least 1 CEmOC facility?
 Answer: All LGAs met this benchmark (0 LGAs fell short).
 
